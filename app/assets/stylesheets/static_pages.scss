@@ -2,6 +2,14 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+ body 
+{
+margin: auto;
+justify-content: center;
+text-align: center;
+color: #364144;
+}
+
  h1 {
 margin: auto;
 justify-content: center;
@@ -9,13 +17,6 @@ text-align: center;
 color: #8D008D;
 }
 
-body 
-{
-margin: auto;
-justify-content: center;
-text-align: center;
-color: #364144;
-}
 
 .nav{
     border:1px solid #ccc;
