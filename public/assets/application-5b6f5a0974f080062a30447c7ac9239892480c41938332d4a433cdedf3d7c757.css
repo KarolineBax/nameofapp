@@ -1,0 +1,62 @@
+/* line 5, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+body {
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  color: #364144;
+}
+
+/* line 12, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+h1 {
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  color: #8D008D;
+}
+
+/* line 20, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+.nav {
+  border: 1px solid #ccc;
+  border-width: 20px;
+  list-style: none;
+  margin: 10px;
+  padding: 0;
+  text-align: center;
+}
+
+/* line 29, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+.nav li {
+  display: inline;
+  float: right;
+}
+
+/* line 33, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+.nav a {
+  display: inline-block;
+  padding: 10px;
+  color: #8D008D;
+  text-decoration: none;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* line 43, /Users/KarolineBax/Desktop/nameofapp/app/assets/stylesheets/static_pages.scss */
+.weight_lift {
+  width: 100%;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
